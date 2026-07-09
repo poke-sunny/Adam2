@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Adam Ellahi mobile compact logo</title>
+  <desc id="desc">Compact AE monogram for mobile navigation and app surfaces.</desc>
+  <rect width="128" height="128" rx="22" fill="#090909"/>
+  <path d="M22 102 50 24h19l31 78H80l-6-18H47l-6 18H22Zm31-35h15l-8-22-7 22Z" fill="#FFFFFF"/>
+  <path d="M70 25h35v16H87v13h16v15H87v16h20v17H70V25Z" fill="#AEB4BC"/>
+  <path d="M17 112 112 17" stroke="#00E5FF" stroke-width="5" stroke-linecap="round"/>
+</svg>
+

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="0.75" stop-color="#00E5FF" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="#090909"/>
+  <path d="M60 0h140L20 360h-140L60 0ZM330 0h60L210 360h-60L330 0ZM540 0h28L388 360h-28L540 0Z" fill="url(#panel)"/>
+  <rect x="40" y="40" width="560" height="280" rx="12" fill="none" stroke="#FFFFFF" stroke-opacity="0.12"/>
+</svg>
+

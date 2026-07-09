@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#141516"/>
+      <stop offset="0.25" stop-color="#23262A"/>
+      <stop offset="0.5" stop-color="#101112"/>
+      <stop offset="0.75" stop-color="#2A2D31"/>
+      <stop offset="1" stop-color="#151719"/>
+    </linearGradient>
+    <pattern id="brush" width="8" height="320" patternUnits="userSpaceOnUse">
+      <path d="M1 0v320M5 0v320" stroke="#AEB4BC" stroke-opacity="0.08" stroke-width="1"/>
+      <path d="M3 0v320" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="480" height="320" fill="url(#base)"/>
+  <rect width="480" height="320" fill="url(#brush)"/>
+  <rect width="480" height="320" fill="#006A52" opacity="0.035"/>
+</svg>
+

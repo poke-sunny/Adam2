@@ -1,0 +1,30 @@
+# Dependencies and build outputs
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# Local caches
+.npm-cache/
+.turbo/
+.cache/
+.git-local/
+.push-chunks*/
+
+# Environment files
+.env
+.env.*
+
+# Generated packages
+*.zip
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

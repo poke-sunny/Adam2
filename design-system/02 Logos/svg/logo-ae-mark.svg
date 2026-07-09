@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Adam Ellahi AE mark</title>
+  <desc id="desc">Original angular AE monogram mark for the Adam Ellahi motorsport design system.</desc>
+  <defs>
+    <linearGradient id="aeMarkLine" x1="36" y1="220" x2="220" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#006A52"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="28" fill="#090909"/>
+  <path d="M52 202 111 54h32l62 148h-34l-12-30H95l-11 30H52Zm54-58h42l-21-55-21 55Z" fill="#FFFFFF"/>
+  <path d="M138 55h68v28h-38v33h34v27h-34v31h40v28h-70V55Z" fill="#AEB4BC"/>
+  <path d="M40 218 218 40" stroke="url(#aeMarkLine)" stroke-width="10" stroke-linecap="round"/>
+</svg>
+

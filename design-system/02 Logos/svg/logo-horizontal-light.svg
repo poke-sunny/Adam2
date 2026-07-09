@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" role="img" aria-labelledby="title desc">
+  <title id="title">Adam Ellahi horizontal logo on light</title>
+  <desc id="desc">Horizontal Adam Ellahi wordmark with AE monogram for light or press use.</desc>
+  <defs>
+    <linearGradient id="accent" x1="22" y1="130" x2="132" y2="22" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#006A52"/>
+      <stop offset="1" stop-color="#00A7B8"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="160" fill="#FFFFFF"/>
+  <g transform="translate(24 24)">
+    <rect width="112" height="112" rx="18" fill="#FFFFFF" stroke="#2B2B2B"/>
+    <path d="M21 90 49 20h17l30 70H78l-6-15H42l-6 15H21Zm27-28h18L57 38l-9 24Z" fill="#090909"/>
+    <path d="M65 21h32v14H80v14h15v13H80v14h18v14H65V21Z" fill="#4C535C"/>
+    <path d="M16 98 98 16" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(168 44)">
+    <text x="0" y="38" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="40" font-weight="700" fill="#090909">Adam Ellahi</text>
+    <text x="2" y="74" font-family="IBM Plex Mono, Consolas, monospace" font-size="14" font-weight="500" fill="#4C535C">PRECISION . PROGRESS . PROOF</text>
+    <path d="M0 92h356" stroke="#006A52" stroke-width="3"/>
+    <path d="M360 92h72" stroke="#00A7B8" stroke-width="3"/>
+  </g>
+</svg>
+

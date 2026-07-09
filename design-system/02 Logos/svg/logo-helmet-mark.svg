@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" role="img" aria-labelledby="title desc">
+  <title id="title">Adam Ellahi helmet mark</title>
+  <desc id="desc">One-colour AE helmet and race suit mark.</desc>
+  <path d="M18 102 58 18h25l40 84H96l-8-18H52l-8 18H18Zm44-41h16l-8-20-8 20Z" fill="currentColor"/>
+  <path d="M116 18h74v22h-47v10h41v22h-41v9h49v21h-76V18Z" fill="currentColor"/>
+  <path d="M15 111 205 9" stroke="currentColor" stroke-width="7" stroke-linecap="round"/>
+</svg>
+

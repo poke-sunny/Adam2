@@ -22,3 +22,4 @@ Open `http://localhost:3000`.
 ## Production
 
 Deploy the `website` folder as a Next.js app on Vercel.
+
