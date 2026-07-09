@@ -23,3 +23,4 @@ Open `http://localhost:3000`.
 
 Deploy the `website` folder as a Next.js app on Vercel.
 
+<!-- redeploy trigger: 2026-07-09T21:45:00Z -->
