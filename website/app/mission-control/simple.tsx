@@ -1,0 +1,1 @@
+export default function Simple(){return <div>test</div>};
