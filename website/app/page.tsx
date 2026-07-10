@@ -1,5 +1,6 @@
 'use client';
 import React from "react";
+import ContactSection from "./ContactSection";
 
 const stats = [
   { label: "Current focus", value: "Race craft", note: "Preparation, precision, consistency" },
@@ -92,7 +93,7 @@ function StructuredData() {
 export default function Home() {
   return (
     <>
-      <style jsx global>{`\n        html, body, #__next { height: 100%; margin: 0; }\n        body { background: #13161A; color: #fff; font-family: 'Inter Variable', sans-serif; font-weight: 510; letter-spacing: -1.056px; font-feature-settings: "cv01" 1, "ss03" 1, "tnum" 1; }\n        a { color: #00D980; text-decoration: none; }\n        .button-primary { background: #00D980; color: #000; border: none; padding: 0.6rem 1.2rem; border-radius: 4px; }\n        .button-secondary { background: transparent; border: 1px solid #00D980; color: #00D980; padding: 0.6rem 1.2rem; border-radius: 4px; }\n        .hero-section { padding: 4rem 2rem; text-align: center; }\n        .hero-section h1 { color: #00D980; }\n      `}</style>
+      <style jsx global>{`\n        html, body, #__next { height: 100%; margin: 0; }\n        body { background: #13161A; color: #fff; font-family: 'Inter Variable', sans-serif; font-weight: 510; letter-spacing: -1.056px; font-feature-settings: "cv01" 1, "ss03" 1, "tnum" 1; }\n        a { color: #00D980; text-decoration: none; }\n        .button-primary { background: #00D980; color: #000; border: none; padding: 0.6rem 1.2rem; border-radius: 4px; }\n        .button-secondary { background: transparent; border: 1px solid #00D980; color: #00D980; padding: 0.6rem 1.2rem; border-radius: 4px; }\n        .hero-section { padding: 4rem 2rem; text-align: center; }\n        .hero-section h1 { color: #00D980; }\n        .contact-section { padding: 4rem 2rem; background: #0a0a0a; }\n        .contact-section .section-heading h2 { color: #00D980; }\n        .contact-form { display: flex; flex-direction: column; gap: 1rem; max-width: 400px; margin: auto; }\n        .contact-form label { display: flex; flex-direction: column; font-size: 0.9rem; }\n        .contact-form input, .contact-form textarea { background: #13161A; border: 1px solid #00D980; color: #fff; padding: 0.5rem; border-radius: 4px; }\n        .contact-form button { align-self: flex-start; }\n      `}</style>
       <StructuredData />
       <Header />
       <main id="top">
@@ -150,7 +151,7 @@ export default function Home() {
           </div>
         </section>
         {/* Other sections (journey, sponsors, mission-control, media, contact) remain as originally defined */}
-        {/* ... */}
+        <ContactSection />
       </main>
     </>
   );
